@@ -1,6 +1,8 @@
-### Hi there I'm Jairo Bernardo B Rauwers, but you can call me Jiro
 
-<img align="right" height="160em" src="https://user-images.githubusercontent.com/14048545/169945763-2aa2eba0-4642-4b2b-934e-daa39207e452.png"/>
+
+### Hi there I'm Jairo Bernardo B Rauwers, but you can call me Jiro
+<img align="right" style="position:absolute;" height="160em" src="https://user-images.githubusercontent.com/14048545/169945763-2aa2eba0-4642-4b2b-934e-daa39207e452.png"></img>
+##
 
 - 🔭 I’m currently working with Nextjs, Typescript ...
 - 🌱 I’m currently studing Computer Science
