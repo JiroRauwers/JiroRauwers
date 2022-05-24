@@ -1,10 +1,12 @@
 ### Hi there I'm Jairo Bernardo B Rauwers, but you can call me Jiro
 
+<img align="right" height="160em" src="https://user-images.githubusercontent.com/14048545/169945763-2aa2eba0-4642-4b2b-934e-daa39207e452.png"/>
+
 - 🔭 I’m currently working with Nextjs, Typescript ...
 - 🌱 I’m currently studing Computer Science
 - 📫 How to reach me: jairorauwers@gmail.comm // IG: @jairorauwers
 - 😄 Pronouns: him/his
-- ⚡ Fun fact: OwO
+- ⚡ Fun fact: OwO 
 
 <div align="center" style="display:flex;
   flex-wrap: wrap;">
