@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there I'm Jairo Bernardo B Rauwers, but you can call me Jiro
 
-<!--
-**JiroRauwers/JiroRauwers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with Nextjs, Typescript ...
+- 🌱 I’m currently studing Computer Science
+- 📫 How to reach me: jairorauwers@gmail.comm // IG: @jairorauwers
+- 😄 Pronouns: him/his
+- ⚡ Fun fact: OwO
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/jirorauwers/">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JiroRauwers&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/jirorauwers/">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiroRauwers&layout=compact&langs_count=7&bg_color=30,904e95,e96443&title_color=fff&text_color=fff"/>
+  </a> 
+</div>
+ 
+ ##
