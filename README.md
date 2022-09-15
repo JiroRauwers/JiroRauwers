@@ -7,7 +7,7 @@
 - 🔭 I’m currently working with Nextjs, Typescript ...
 - 🌱 I’m currently studing Computer Science
 - 📫 How to reach me: jairorauwers@gmail.comm // IG: @jairorauwers
-- 😄 Pronouns: him/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: OwO 
 
 <div align="center" style="display:flex;
