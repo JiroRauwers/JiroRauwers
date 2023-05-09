@@ -10,10 +10,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: OwO 
 
-<div align="left" style="display:flex;
-  flex-wrap: wrap;">
+<div align="center">
   <a href="https://github.com/jirorauwers/">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=JiroRauwers&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=JiroRauwers&show_icons=true&theme=nord&count_private=true" alt="Jairo Rauwers"/>
   </a>
 <!--   <a href="https://github.com/jirorauwers/">
     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiroRauwers&hide_border=true&layout=default&bg_color=30,904e95,e96443&title_color=fff&text_color=fff"/>
