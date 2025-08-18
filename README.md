@@ -17,6 +17,18 @@
 <!--   <a href="https://github.com/jirorauwers/">
     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirorauwers&hide_border=true&layout=default&bg_color=30,904e95,e96443&title_color=fff&text_color=fff"/>
   </a>  -->
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="images/breakout-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="images/breakout-light.svg"
+    />
+    <img alt="Breakout Game" src="images/breakout-light.svg" />
+  </picture>
 </div>
  
  ##
